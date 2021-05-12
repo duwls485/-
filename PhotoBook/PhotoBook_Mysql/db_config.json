@@ -1,0 +1,7 @@
+{
+    "host" : "192.168.0.11",
+    "user" : "bookadmin",
+    "password" : "book1234",
+    "database" : "photobook",
+    "connectionLimit" : 15
+}
